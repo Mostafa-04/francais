@@ -1,0 +1,1187 @@
+
+{
+  "planTitle": "30 jours pour améliorer mon français professionnel",
+  "startDate": "2026-10-26",
+  "endDate": "2026-11-24",
+  "duration": 30,
+  "level": "beginner",
+  "language": "fr",
+  "translationsLanguage": "ar",
+  "dailyVocabularyCount": 10,
+  "dailyPhraseCount": 8,
+  "reviewPolicy": "Review the previous day's lesson before starting the new lesson. On day 1, no previous lesson exists. Review completion must be recorded by the learner.",
+  "lessons": [
+    {
+      "day": 1,
+      "date": "2026-10-26",
+      "title": "Se présenter",
+      "category": "entretien",
+      "vocabulary": [
+        {"french": "un nom", "arabic": "اسم", "example": "Mon nom est Karim."},
+        {"french": "un prénom", "arabic": "الاسم الشخصي", "example": "Mon prénom est Karim."},
+        {"french": "un âge", "arabic": "عمر", "example": "J'ai vingt-deux ans."},
+        {"french": "une ville", "arabic": "مدينة", "example": "J'habite dans une ville près de Casablanca."},
+        {"french": "une formation", "arabic": "تكوين أو تدريب", "example": "J'ai une formation en développement digital."},
+        {"french": "un développeur", "arabic": "مطور", "example": "Je suis développeur web."},
+        {"french": "un métier", "arabic": "مهنة", "example": "Le développement web est mon métier."},
+        {"french": "une expérience", "arabic": "خبرة أو تجربة", "example": "J'ai une expérience en développement web."},
+        {"french": "une compétence", "arabic": "مهارة", "example": "La programmation est une de mes compétences."},
+        {"french": "se présenter", "arabic": "يقدم نفسه", "example": "Je vais me présenter."}
+      ],
+      "phrases": [
+        {"french": "Bonjour, je m'appelle Karim.", "arabic": "مرحبًا، اسمي كريم."},
+        {"french": "J'ai vingt-deux ans.", "arabic": "عمري اثنان وعشرون عامًا."},
+        {"french": "J'habite près de Casablanca.", "arabic": "أسكن بالقرب من الدار البيضاء."},
+        {"french": "J'ai une formation en développement digital.", "arabic": "لدي تكوين في التطوير الرقمي."},
+        {"french": "Je suis développeur web.", "arabic": "أنا مطور ويب."},
+        {"french": "Je m'intéresse à la programmation.", "arabic": "أنا مهتم بالبرمجة."},
+        {"french": "J'apprends le français pour mon travail.", "arabic": "أتعلم الفرنسية من أجل عملي."},
+        {"french": "Je suis heureux de vous rencontrer.", "arabic": "أنا سعيد بلقائكم."}
+      ],
+      "speakingTask": "Présentez-vous pendant une minute sans lire les phrases.",
+      "review": {
+        "reviewPreviousDay": null,
+        "reviewTasks": [
+          "Aucune révision précédente pour le premier jour.",
+          "À la fin du cours, essayez de rappeler cinq mots et quatre phrases sans regarder."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 2,
+      "date": "2026-10-27",
+      "title": "Parler de ses études et de sa formation",
+      "category": "formation",
+      "vocabulary": [
+        {"french": "une école", "arabic": "مدرسة", "example": "J'ai étudié dans une école de formation professionnelle."},
+        {"french": "un diplôme", "arabic": "شهادة", "example": "J'ai obtenu un diplôme en développement digital."},
+        {"french": "étudier", "arabic": "يدرس", "example": "J'ai étudié le développement web."},
+        {"french": "apprendre", "arabic": "يتعلم", "example": "J'apprends de nouvelles technologies."},
+        {"french": "un cours", "arabic": "درس", "example": "J'ai un cours de programmation."},
+        {"french": "un exercice", "arabic": "تمرين", "example": "Je fais un exercice de français."},
+        {"french": "un projet", "arabic": "مشروع", "example": "J'ai réalisé un projet web."},
+        {"french": "un stage", "arabic": "تدريب مهني", "example": "J'ai effectué un stage en développement web."},
+        {"french": "réussir", "arabic": "ينجح", "example": "Je veux réussir mon entretien."},
+        {"french": "progresser", "arabic": "يتقدم ويتطور", "example": "Je veux progresser en français."}
+      ],
+      "phrases": [
+        {"french": "J'ai étudié le développement digital.", "arabic": "درست التطوير الرقمي."},
+        {"french": "J'ai obtenu mon diplôme en 2024.", "arabic": "حصلت على شهادتي سنة 2024."},
+        {"french": "Ma formation est orientée vers le développement web.", "arabic": "تكويني موجه نحو تطوير الويب."},
+        {"french": "J'ai appris les bases de la programmation.", "arabic": "تعلمت أساسيات البرمجة."},
+        {"french": "J'aime apprendre de nouvelles technologies.", "arabic": "أحب تعلم تقنيات جديدة."},
+        {"french": "J'ai réalisé plusieurs exercices pratiques.", "arabic": "أنجزت عدة تمارين تطبيقية."},
+        {"french": "Je souhaite continuer à me former.", "arabic": "أرغب في مواصلة التكوين."},
+        {"french": "Mon objectif est de progresser chaque jour.", "arabic": "هدفي هو التطور كل يوم."}
+      ],
+      "speakingTask": "Expliquez votre parcours scolaire et votre formation pendant une minute.",
+      "review": {
+        "reviewPreviousDay": 1,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 1 sans regarder les traductions.",
+          "Répétez les huit phrases du jour 1.",
+          "Présentez-vous pendant une minute."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 3,
+      "date": "2026-10-28",
+      "title": "Décrire ses compétences techniques",
+      "category": "competences",
+      "vocabulary": [
+        {"french": "le développement", "arabic": "التطوير", "example": "Le développement web m'intéresse."},
+        {"french": "un langage", "arabic": "لغة برمجة أو لغة", "example": "PHP est un langage de programmation."},
+        {"french": "un outil", "arabic": "أداة", "example": "J'utilise plusieurs outils de développement."},
+        {"french": "une base de données", "arabic": "قاعدة بيانات", "example": "Je travaille avec une base de données."},
+        {"french": "le front-end", "arabic": "الواجهة الأمامية", "example": "Je développe des interfaces front-end."},
+        {"french": "le back-end", "arabic": "الواجهة الخلفية", "example": "Le back-end gère la logique de l'application."},
+        {"french": "maîtriser", "arabic": "يتقن", "example": "Je maîtrise les bases de PHP."},
+        {"french": "utiliser", "arabic": "يستخدم", "example": "J'utilise React pour créer des interfaces."},
+        {"french": "connaître", "arabic": "يعرف", "example": "Je connais les bases de SQL."},
+        {"french": "technique", "arabic": "تقني", "example": "J'ai des compétences techniques en développement web."}
+      ],
+      "phrases": [
+        {"french": "Je travaille dans le développement web.", "arabic": "أعمل في تطوير الويب."},
+        {"french": "J'utilise PHP et Laravel.", "arabic": "أستخدم PHP وLaravel."},
+        {"french": "Je développe des interfaces avec React.", "arabic": "أطور واجهات باستخدام React."},
+        {"french": "Je travaille avec des bases de données MySQL.", "arabic": "أعمل مع قواعد بيانات MySQL."},
+        {"french": "Je connais les bases de Git.", "arabic": "أعرف أساسيات Git."},
+        {"french": "J'aime résoudre des problèmes techniques.", "arabic": "أحب حل المشكلات التقنية."},
+        {"french": "Je continue à améliorer mes compétences.", "arabic": "أواصل تحسين مهاراتي."},
+        {"french": "Je suis motivé pour apprendre de nouveaux outils.", "arabic": "أنا متحمس لتعلم أدوات جديدة."}
+      ],
+      "speakingTask": "Présentez trois technologies que vous connaissez et expliquez à quoi elles servent.",
+      "review": {
+        "reviewPreviousDay": 2,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 2.",
+          "Répétez les huit phrases du jour 2.",
+          "Présentez votre parcours scolaire."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 4,
+      "date": "2026-10-29",
+      "title": "Parler de son expérience professionnelle",
+      "category": "experience",
+      "vocabulary": [
+        {"french": "une entreprise", "arabic": "شركة", "example": "Je travaille dans une entreprise informatique."},
+        {"french": "un collègue", "arabic": "زميل", "example": "Je travaille avec un collègue."},
+        {"french": "un responsable", "arabic": "مسؤول", "example": "Je présente mon travail à mon responsable."},
+        {"french": "une mission", "arabic": "مهمة", "example": "Ma mission consiste à développer une fonctionnalité."},
+        {"french": "une équipe", "arabic": "فريق", "example": "Je travaille avec une équipe de développeurs."},
+        {"french": "participer", "arabic": "يشارك", "example": "Je participe à plusieurs projets."},
+        {"french": "développer", "arabic": "يطور", "example": "Je développe une application web."},
+        {"french": "améliorer", "arabic": "يحسن", "example": "J'améliore une fonctionnalité existante."},
+        {"french": "livrer", "arabic": "يسلم", "example": "Nous devons livrer le projet vendredi."},
+        {"french": "collaborer", "arabic": "يتعاون", "example": "Je collabore avec les autres développeurs."}
+      ],
+      "phrases": [
+        {"french": "Je travaille sur plusieurs projets web.", "arabic": "أعمل على عدة مشاريع ويب."},
+        {"french": "Je participe au développement de nouvelles fonctionnalités.", "arabic": "أشارك في تطوير ميزات جديدة."},
+        {"french": "Je collabore avec les membres de mon équipe.", "arabic": "أتعاون مع أعضاء فريقي."},
+        {"french": "Je reçois des tâches de mon responsable.", "arabic": "أتلقى المهام من مسؤولي."},
+        {"french": "Je corrige des erreurs dans le code.", "arabic": "أصحح الأخطاء في الكود."},
+        {"french": "Je teste les fonctionnalités avant la livraison.", "arabic": "أختبر الميزات قبل التسليم."},
+        {"french": "J'essaie de respecter les délais.", "arabic": "أحاول احترام الآجال."},
+        {"french": "Cette expérience me permet d'apprendre beaucoup.", "arabic": "تتيح لي هذه التجربة تعلم الكثير."}
+      ],
+      "speakingTask": "Décrivez votre travail actuel et trois tâches que vous effectuez.",
+      "review": {
+        "reviewPreviousDay": 3,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 3.",
+          "Répétez les huit phrases du jour 3.",
+          "Expliquez deux technologies utilisées dans vos projets."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 5,
+      "date": "2026-10-30",
+      "title": "Parler de sa journée de travail",
+      "category": "quotidien",
+      "vocabulary": [
+        {"french": "le matin", "arabic": "الصباح", "example": "Je commence le travail le matin."},
+        {"french": "l'après-midi", "arabic": "بعد الظهر", "example": "J'ai une réunion l'après-midi."},
+        {"french": "commencer", "arabic": "يبدأ", "example": "Je commence ma journée à neuf heures."},
+        {"french": "terminer", "arabic": "ينهي", "example": "Je termine ma tâche avant midi."},
+        {"french": "une tâche", "arabic": "مهمة", "example": "J'ai une tâche à terminer."},
+        {"french": "une priorité", "arabic": "أولوية", "example": "Cette correction est une priorité."},
+        {"french": "organiser", "arabic": "ينظم", "example": "J'organise mon travail chaque matin."},
+        {"french": "préparer", "arabic": "يحضر", "example": "Je prépare les tâches de la journée."},
+        {"french": "vérifier", "arabic": "يتحقق", "example": "Je vérifie mon code."},
+        {"french": "avancer", "arabic": "يتقدم", "example": "J'avance sur mon projet."}
+      ],
+      "phrases": [
+        {"french": "Je commence ma journée par la vérification de mes tâches.", "arabic": "أبدأ يومي بمراجعة مهامي."},
+        {"french": "Je consulte les messages de mon équipe.", "arabic": "أراجع رسائل فريقي."},
+        {"french": "Je choisis les tâches les plus importantes.", "arabic": "أختار المهام الأكثر أهمية."},
+        {"french": "Je travaille sur une fonctionnalité.", "arabic": "أعمل على ميزة."},
+        {"french": "Je fais une pause à midi.", "arabic": "آخذ استراحة عند الظهر."},
+        {"french": "Je vérifie le résultat de mon travail.", "arabic": "أتحقق من نتيجة عملي."},
+        {"french": "Je signale les problèmes rencontrés.", "arabic": "أبلغ عن المشكلات التي واجهتها."},
+        {"french": "Je prépare mon travail pour demain.", "arabic": "أحضر عملي ليوم غد."}
+      ],
+      "speakingTask": "Racontez votre journée de travail du matin au soir.",
+      "review": {
+        "reviewPreviousDay": 4,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 4.",
+          "Répétez les huit phrases du jour 4.",
+          "Décrivez une mission professionnelle."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 6,
+      "date": "2026-10-31",
+      "title": "Exprimer ses goûts et ses motivations",
+      "category": "motivation",
+      "vocabulary": [
+        {"french": "aimer", "arabic": "يحب", "example": "J'aime apprendre de nouvelles technologies."},
+        {"french": "préférer", "arabic": "يفضل", "example": "Je préfère travailler en équipe."},
+        {"french": "apprécier", "arabic": "يقدّر أو يستمتع بـ", "example": "J'apprécie les projets pratiques."},
+        {"french": "la motivation", "arabic": "الدافع", "example": "Ma motivation est de progresser."},
+        {"french": "un objectif", "arabic": "هدف", "example": "Mon objectif est de devenir un bon développeur."},
+        {"french": "un défi", "arabic": "تحدٍّ", "example": "Ce projet représente un défi."},
+        {"french": "intéressant", "arabic": "مثير للاهتمام", "example": "Ce projet est intéressant."},
+        {"french": "utile", "arabic": "مفيد", "example": "Cette formation est utile."},
+        {"french": "apprendre", "arabic": "يتعلم", "example": "J'aime apprendre par la pratique."},
+        {"french": "évoluer", "arabic": "يتطور مهنيًا", "example": "Je souhaite évoluer professionnellement."}
+      ],
+      "phrases": [
+        {"french": "J'aime résoudre des problèmes.", "arabic": "أحب حل المشكلات."},
+        {"french": "Je préfère apprendre en pratiquant.", "arabic": "أفضل التعلم من خلال التطبيق."},
+        {"french": "Le développement web m'intéresse beaucoup.", "arabic": "تطوير الويب يثير اهتمامي كثيرًا."},
+        {"french": "Je suis motivé pour progresser.", "arabic": "أنا متحمس للتطور."},
+        {"french": "Mon objectif est de devenir développeur full stack.", "arabic": "هدفي أن أصبح مطور Full Stack."},
+        {"french": "J'aime travailler sur des projets concrets.", "arabic": "أحب العمل على مشاريع واقعية."},
+        {"french": "Je souhaite apprendre de nouvelles technologies.", "arabic": "أرغب في تعلم تقنيات جديدة."},
+        {"french": "Je considère chaque difficulté comme une occasion d'apprendre.", "arabic": "أعتبر كل صعوبة فرصة للتعلم."}
+      ],
+      "speakingTask": "Expliquez ce que vous aimez dans le développement web et pourquoi.",
+      "review": {
+        "reviewPreviousDay": 5,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 5.",
+          "Répétez les huit phrases du jour 5.",
+          "Racontez votre journée de travail."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 7,
+      "date": "2026-11-01",
+      "title": "Révision de la première semaine",
+      "category": "revision",
+      "vocabulary": [
+        {"french": "résumer", "arabic": "يلخص", "example": "Je résume mon parcours en quelques phrases."},
+        {"french": "expliquer", "arabic": "يشرح", "example": "J'explique mon travail."},
+        {"french": "répéter", "arabic": "يكرر", "example": "Je répète les phrases importantes."},
+        {"french": "se souvenir", "arabic": "يتذكر", "example": "Je me souviens des mots appris."},
+        {"french": "oublier", "arabic": "ينسى", "example": "J'oublie parfois certains mots."},
+        {"french": "corriger", "arabic": "يصحح", "example": "Je corrige mes erreurs."},
+        {"french": "une erreur", "arabic": "خطأ", "example": "Une erreur m'aide à apprendre."},
+        {"french": "un progrès", "arabic": "تقدم", "example": "Je remarque un progrès."},
+        {"french": "réviser", "arabic": "يراجع", "example": "Je révise mes leçons."},
+        {"french": "s'entraîner", "arabic": "يتدرب", "example": "Je m'entraîne à parler français."}
+      ],
+      "phrases": [
+        {"french": "Je vais réviser les leçons de la semaine.", "arabic": "سأراجع دروس الأسبوع."},
+        {"french": "Je peux me présenter en français.", "arabic": "أستطيع تقديم نفسي بالفرنسية."},
+        {"french": "Je peux parler de ma formation.", "arabic": "أستطيع التحدث عن تكويني."},
+        {"french": "Je connais plusieurs mots professionnels.", "arabic": "أعرف عدة كلمات مهنية."},
+        {"french": "Je dois encore améliorer ma prononciation.", "arabic": "ما زال علي تحسين نطقي."},
+        {"french": "Je fais des erreurs, mais je continue.", "arabic": "أرتكب أخطاء، لكنني أواصل."},
+        {"french": "Je répète les phrases sans regarder le texte.", "arabic": "أكرر الجمل دون النظر إلى النص."},
+        {"french": "Je progresse grâce à la pratique quotidienne.", "arabic": "أتقدم بفضل الممارسة اليومية."}
+      ],
+      "speakingTask": "Faites une présentation de deux minutes sur vous, votre formation et votre travail.",
+      "review": {
+        "reviewPreviousDay": 6,
+        "reviewTasks": [
+          "Révisez le jour 6.",
+          "Révisez les jours 1 à 6 en choisissant les mots oubliés.",
+          "Testez votre mémoire sans regarder les traductions."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 8,
+      "date": "2026-11-02",
+      "title": "Comprendre les questions d'entretien",
+      "category": "entretien",
+      "vocabulary": [
+        {"french": "une question", "arabic": "سؤال", "example": "J'écoute attentivement chaque question."},
+        {"french": "une réponse", "arabic": "إجابة", "example": "Je prépare une réponse claire."},
+        {"french": "expliquer", "arabic": "يشرح", "example": "Je peux expliquer mon expérience."},
+        {"french": "décrire", "arabic": "يصف", "example": "Je décris mon dernier projet."},
+        {"french": "pourquoi", "arabic": "لماذا", "example": "Pourquoi voulez-vous ce poste ?"},
+        {"french": "comment", "arabic": "كيف", "example": "Comment travaillez-vous en équipe ?"},
+        {"french": "quand", "arabic": "متى", "example": "Quand avez-vous commencé ce projet ?"},
+        {"french": "combien", "arabic": "كم", "example": "Combien de temps a duré le projet ?"},
+        {"french": "présenter", "arabic": "يقدم", "example": "Je présente mon parcours."},
+        {"french": "répondre", "arabic": "يجيب", "example": "Je réponds à la question."}
+      ],
+      "phrases": [
+        {"french": "Pouvez-vous vous présenter ?", "arabic": "هل يمكنك تقديم نفسك؟"},
+        {"french": "Pouvez-vous parler de votre expérience ?", "arabic": "هل يمكنك التحدث عن خبرتك؟"},
+        {"french": "Pourquoi avez-vous choisi le développement web ?", "arabic": "لماذا اخترت تطوير الويب؟"},
+        {"french": "Quelles sont vos compétences principales ?", "arabic": "ما مهاراتك الأساسية؟"},
+        {"french": "Pouvez-vous décrire un projet ?", "arabic": "هل يمكنك وصف مشروع؟"},
+        {"french": "Je vais vous donner un exemple concret.", "arabic": "سأعطيكم مثالًا واقعيًا."},
+        {"french": "Pourriez-vous répéter la question, s'il vous plaît ?", "arabic": "هل يمكنكم تكرار السؤال من فضلكم؟"},
+        {"french": "Je vais essayer de vous répondre clairement.", "arabic": "سأحاول الإجابة بوضوح."}
+      ],
+      "speakingTask": "Lisez les questions à voix haute et répondez à trois d'entre elles.",
+      "review": {
+        "reviewPreviousDay": 7,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 7.",
+          "Répétez les huit phrases du jour 7.",
+          "Présentez-vous pendant deux minutes."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 9,
+      "date": "2026-11-03",
+      "title": "Parler de ses qualités",
+      "category": "entretien",
+      "vocabulary": [
+        {"french": "une qualité", "arabic": "صفة إيجابية", "example": "La patience est une qualité importante."},
+        {"french": "un défaut", "arabic": "نقطة ضعف", "example": "Je travaille pour corriger ce défaut."},
+        {"french": "sérieux", "arabic": "جاد", "example": "Je suis sérieux dans mon travail."},
+        {"french": "organisé", "arabic": "منظم", "example": "Je suis organisé dans mes tâches."},
+        {"french": "patient", "arabic": "صبور", "example": "Je suis patient face aux problèmes."},
+        {"french": "autonome", "arabic": "مستقل في العمل", "example": "Je peux travailler de manière autonome."},
+        {"french": "ponctuel", "arabic": "ملتزم بالمواعيد", "example": "Je suis ponctuel aux réunions."},
+        {"french": "curieux", "arabic": "فضولي معرفيًا", "example": "Je suis curieux des nouvelles technologies."},
+        {"french": "rigoureux", "arabic": "دقيق ومنضبط", "example": "Je suis rigoureux dans mes vérifications."},
+        {"french": "s'améliorer", "arabic": "يحسن نفسه", "example": "Je cherche toujours à m'améliorer."}
+      ],
+      "phrases": [
+        {"french": "Je suis sérieux et motivé.", "arabic": "أنا جاد ومتحمس."},
+        {"french": "Je suis curieux et j'aime apprendre.", "arabic": "أنا فضولي وأحب التعلم."},
+        {"french": "Je fais attention aux détails.", "arabic": "أهتم بالتفاصيل."},
+        {"french": "Je respecte les délais.", "arabic": "أحترم الآجال."},
+        {"french": "Je sais travailler en équipe.", "arabic": "أستطيع العمل ضمن فريق."},
+        {"french": "Je peux travailler de manière autonome.", "arabic": "أستطيع العمل باستقلالية."},
+        {"french": "Je cherche à améliorer mon organisation.", "arabic": "أسعى إلى تحسين تنظيمي."},
+        {"french": "Je considère les remarques comme une occasion de progresser.", "arabic": "أعتبر الملاحظات فرصة للتطور."}
+      ],
+      "speakingTask": "Présentez deux qualités et donnez un exemple professionnel pour chacune.",
+      "review": {
+        "reviewPreviousDay": 8,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 8.",
+          "Répétez les huit phrases du jour 8.",
+          "Répondez à trois questions d'entretien."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 10,
+      "date": "2026-11-04",
+      "title": "Parler de ses points à améliorer",
+      "category": "entretien",
+      "vocabulary": [
+        {"french": "une difficulté", "arabic": "صعوبة", "example": "La prononciation est une difficulté pour moi."},
+        {"french": "une faiblesse", "arabic": "نقطة ضعف", "example": "Je connais mes points de faiblesse."},
+        {"french": "progresser", "arabic": "يتقدم", "example": "Je veux progresser à l'oral."},
+        {"french": "pratiquer", "arabic": "يمارس", "example": "Je pratique le français chaque jour."},
+        {"french": "la confiance", "arabic": "الثقة", "example": "La pratique augmente ma confiance."},
+        {"french": "une habitude", "arabic": "عادة", "example": "Je construis une habitude de révision."},
+        {"french": "une erreur", "arabic": "خطأ", "example": "Je corrige chaque erreur importante."},
+        {"french": "patienter", "arabic": "يصبر", "example": "Je dois patienter pendant mon apprentissage."},
+        {"french": "s'améliorer", "arabic": "يتحسن", "example": "Mon expression orale s'améliore."},
+        {"french": "régulièrement", "arabic": "بانتظام", "example": "Je révise régulièrement."}
+      ],
+      "phrases": [
+        {"french": "Je dois encore améliorer mon français oral.", "arabic": "ما زال علي تحسين لغتي الفرنسية الشفوية."},
+        {"french": "Je manque parfois de vocabulaire.", "arabic": "أفتقر أحيانًا إلى المفردات."},
+        {"french": "Je travaille sur cette difficulté chaque jour.", "arabic": "أعمل على هذه الصعوبة كل يوم."},
+        {"french": "Je pratique pour gagner en confiance.", "arabic": "أتدرب لاكتساب الثقة."},
+        {"french": "J'apprends à partir de mes erreurs.", "arabic": "أتعلم من أخطائي."},
+        {"french": "Je suis capable de progresser avec de la pratique.", "arabic": "أستطيع التطور بالممارسة."},
+        {"french": "Je préfère donner une réponse honnête.", "arabic": "أفضل تقديم إجابة صادقة."},
+        {"french": "Je travaille régulièrement pour atteindre mon objectif.", "arabic": "أعمل بانتظام لتحقيق هدفي."}
+      ],
+      "speakingTask": "Expliquez une difficulté professionnelle et comment vous cherchez à l'améliorer.",
+      "review": {
+        "reviewPreviousDay": 9,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 9.",
+          "Répétez les huit phrases du jour 9.",
+          "Présentez deux qualités et un point à améliorer."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 11,
+      "date": "2026-11-05",
+      "title": "Expliquer un projet web",
+      "category": "projets",
+      "vocabulary": [
+        {"french": "un besoin", "arabic": "حاجة", "example": "Nous analysons le besoin du client."},
+        {"french": "une fonctionnalité", "arabic": "ميزة وظيفية", "example": "Je développe une nouvelle fonctionnalité."},
+        {"french": "un utilisateur", "arabic": "مستخدم", "example": "L'utilisateur se connecte à l'application."},
+        {"french": "une interface", "arabic": "واجهة", "example": "Je crée une interface simple."},
+        {"french": "une donnée", "arabic": "بيانات أو معلومة", "example": "L'application enregistre une donnée."},
+        {"french": "une étape", "arabic": "مرحلة", "example": "Le projet comprend plusieurs étapes."},
+        {"french": "concevoir", "arabic": "يصمم", "example": "Je conçois une interface web."},
+        {"french": "réaliser", "arabic": "ينجز", "example": "Nous réalisons un projet ensemble."},
+        {"french": "tester", "arabic": "يختبر", "example": "Je teste le formulaire."},
+        {"french": "déployer", "arabic": "ينشر التطبيق", "example": "Nous déployons l'application en ligne."}
+      ],
+      "phrases": [
+        {"french": "Ce projet est une application web.", "arabic": "هذا المشروع عبارة عن تطبيق ويب."},
+        {"french": "L'objectif est de faciliter le travail des utilisateurs.", "arabic": "الهدف هو تسهيل عمل المستخدمين."},
+        {"french": "Je participe à la conception de l'interface.", "arabic": "أشارك في تصميم الواجهة."},
+        {"french": "Je développe des fonctionnalités selon les besoins.", "arabic": "أطور ميزات وفقًا للاحتياجات."},
+        {"french": "Les données sont enregistrées dans une base de données.", "arabic": "تُحفظ البيانات في قاعدة بيانات."},
+        {"french": "Je teste les différentes parties de l'application.", "arabic": "أختبر الأجزاء المختلفة من التطبيق."},
+        {"french": "Nous corrigeons les problèmes avant le déploiement.", "arabic": "نصحح المشكلات قبل النشر."},
+        {"french": "Je peux expliquer mon rôle dans ce projet.", "arabic": "أستطيع شرح دوري في هذا المشروع."}
+      ],
+      "speakingTask": "Présentez un projet réel : son objectif, ses utilisateurs, vos tâches et son résultat.",
+      "review": {
+        "reviewPreviousDay": 10,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 10.",
+          "Répétez les huit phrases du jour 10.",
+          "Expliquez une difficulté et votre méthode pour la résoudre."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 12,
+      "date": "2026-11-06",
+      "title": "Expliquer un problème technique",
+      "category": "technique",
+      "vocabulary": [
+        {"french": "un bug", "arabic": "خلل برمجي", "example": "J'ai trouvé un bug dans le formulaire."},
+        {"french": "une erreur", "arabic": "خطأ", "example": "Le système affiche une erreur."},
+        {"french": "un problème", "arabic": "مشكلة", "example": "J'analyse le problème."},
+        {"french": "une cause", "arabic": "سبب", "example": "Je cherche la cause du bug."},
+        {"french": "un résultat", "arabic": "نتيجة", "example": "Le résultat n'est pas correct."},
+        {"french": "un comportement", "arabic": "سلوك", "example": "Le comportement de la page est étrange."},
+        {"french": "identifier", "arabic": "يحدد", "example": "J'identifie l'origine de l'erreur."},
+        {"french": "analyser", "arabic": "يحلل", "example": "J'analyse les logs."},
+        {"french": "résoudre", "arabic": "يحل", "example": "Je résous le problème."},
+        {"french": "fonctionner", "arabic": "يعمل", "example": "Le formulaire fonctionne correctement."}
+      ],
+      "phrases": [
+        {"french": "J'ai rencontré un problème technique.", "arabic": "واجهت مشكلة تقنية."},
+        {"french": "La page ne fonctionne pas correctement.", "arabic": "الصفحة لا تعمل بشكل صحيح."},
+        {"french": "Je cherche la cause du problème.", "arabic": "أبحث عن سبب المشكلة."},
+        {"french": "J'ai reproduit l'erreur.", "arabic": "تمكنت من إعادة إظهار الخطأ."},
+        {"french": "Je vérifie les messages d'erreur.", "arabic": "أتحقق من رسائل الخطأ."},
+        {"french": "J'ai identifié une cause possible.", "arabic": "حددت سببًا محتملًا."},
+        {"french": "Je vais tester une solution.", "arabic": "سأختبر حلًا."},
+        {"french": "Je vous informerai lorsque le problème sera résolu.", "arabic": "سأخبركم عندما تُحل المشكلة."}
+      ],
+      "speakingTask": "Expliquez un bug que vous avez rencontré, comment vous l'avez analysé et comment vous l'avez corrigé.",
+      "review": {
+        "reviewPreviousDay": 11,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 11.",
+          "Répétez les huit phrases du jour 11.",
+          "Présentez un projet web en une minute."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 13,
+      "date": "2026-11-07",
+      "title": "Parler du travail en équipe",
+      "category": "equipe",
+      "vocabulary": [
+        {"french": "un membre", "arabic": "عضو", "example": "Chaque membre a une responsabilité."},
+        {"french": "un échange", "arabic": "تبادل", "example": "Nous avons un échange avec l'équipe."},
+        {"french": "une idée", "arabic": "فكرة", "example": "Je propose une idée."},
+        {"french": "un avis", "arabic": "رأي", "example": "Je partage mon avis."},
+        {"french": "un soutien", "arabic": "دعم", "example": "Je demande le soutien d'un collègue."},
+        {"french": "aider", "arabic": "يساعد", "example": "J'aide mon équipe."},
+        {"french": "partager", "arabic": "يشارك", "example": "Je partage mes connaissances."},
+        {"french": "écouter", "arabic": "يستمع", "example": "J'écoute les propositions de mes collègues."},
+        {"french": "proposer", "arabic": "يقترح", "example": "Je propose une solution."},
+        {"french": "respecter", "arabic": "يحترم", "example": "Nous respectons les idées de chacun."}
+      ],
+      "phrases": [
+        {"french": "J'aime travailler en équipe.", "arabic": "أحب العمل ضمن فريق."},
+        {"french": "Je partage mes idées avec mes collègues.", "arabic": "أشارك أفكاري مع زملائي."},
+        {"french": "J'écoute les suggestions des autres.", "arabic": "أستمع إلى اقتراحات الآخرين."},
+        {"french": "Nous cherchons une solution ensemble.", "arabic": "نبحث عن حل معًا."},
+        {"french": "Je peux aider un collègue sur une tâche.", "arabic": "أستطيع مساعدة زميل في مهمة."},
+        {"french": "Je respecte les opinions différentes.", "arabic": "أحترم الآراء المختلفة."},
+        {"french": "Nous partageons les responsabilités.", "arabic": "نتقاسم المسؤوليات."},
+        {"french": "La communication facilite notre travail.", "arabic": "يسهّل التواصل عملنا."}
+      ],
+      "speakingTask": "Décrivez une situation où vous avez collaboré avec un collègue.",
+      "review": {
+        "reviewPreviousDay": 12,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 12.",
+          "Répétez les huit phrases du jour 12.",
+          "Expliquez un problème technique."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 14,
+      "date": "2026-11-08",
+      "title": "Révision de la deuxième semaine",
+      "category": "revision",
+      "vocabulary": [
+        {"french": "un entretien", "arabic": "مقابلة", "example": "Je prépare mon entretien."},
+        {"french": "un parcours", "arabic": "مسار", "example": "Je présente mon parcours professionnel."},
+        {"french": "une responsabilité", "arabic": "مسؤولية", "example": "J'assume mes responsabilités."},
+        {"french": "un objectif", "arabic": "هدف", "example": "Je présente l'objectif du projet."},
+        {"french": "une compétence", "arabic": "مهارة", "example": "Je développe mes compétences."},
+        {"french": "une difficulté", "arabic": "صعوبة", "example": "J'explique une difficulté technique."},
+        {"french": "une solution", "arabic": "حل", "example": "Je propose une solution."},
+        {"french": "une équipe", "arabic": "فريق", "example": "Je travaille avec une équipe."},
+        {"french": "une amélioration", "arabic": "تحسين", "example": "Je propose une amélioration."},
+        {"french": "un exemple", "arabic": "مثال", "example": "Je donne un exemple concret."}
+      ],
+      "phrases": [
+        {"french": "Je peux présenter mon parcours professionnel.", "arabic": "أستطيع تقديم مساري المهني."},
+        {"french": "Je connais mes principales compétences.", "arabic": "أعرف مهاراتي الأساسية."},
+        {"french": "Je peux décrire un projet web.", "arabic": "أستطيع وصف مشروع ويب."},
+        {"french": "Je sais expliquer un problème technique.", "arabic": "أستطيع شرح مشكلة تقنية."},
+        {"french": "Je propose des solutions adaptées.", "arabic": "أقترح حلولًا مناسبة."},
+        {"french": "Je communique avec les membres de mon équipe.", "arabic": "أتواصل مع أعضاء فريقي."},
+        {"french": "Je dois continuer à pratiquer le français.", "arabic": "يجب أن أواصل ممارسة الفرنسية."},
+        {"french": "Je peux répondre avec des exemples concrets.", "arabic": "أستطيع الإجابة بأمثلة واقعية."}
+      ],
+      "speakingTask": "Simulez un entretien de trois minutes en présentant votre parcours, vos compétences et un projet.",
+      "review": {
+        "reviewPreviousDay": 13,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 13.",
+          "Répétez les huit phrases du jour 13.",
+          "Révisez les jours 8 à 13.",
+          "Notez les mots que vous oubliez souvent."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 15,
+      "date": "2026-11-09",
+      "title": "Comprendre les instructions au travail",
+      "category": "instructions",
+      "vocabulary": [
+        {"french": "une consigne", "arabic": "تعليمة", "example": "Je lis attentivement la consigne."},
+        {"french": "une demande", "arabic": "طلب", "example": "J'ai reçu une demande du responsable."},
+        {"french": "une étape", "arabic": "مرحلة", "example": "Je suis les étapes du processus."},
+        {"french": "d'abord", "arabic": "أولًا", "example": "D'abord, je vérifie les données."},
+        {"french": "ensuite", "arabic": "بعد ذلك", "example": "Ensuite, je teste le formulaire."},
+        {"french": "enfin", "arabic": "أخيرًا", "example": "Enfin, je partage le résultat."},
+        {"french": "suivre", "arabic": "يتبع", "example": "Je suis les instructions."},
+        {"french": "terminer", "arabic": "ينهي", "example": "Je termine la tâche aujourd'hui."},
+        {"french": "vérifier", "arabic": "يتحقق", "example": "Je vérifie chaque étape."},
+        {"french": "confirmer", "arabic": "يؤكد", "example": "Je confirme la réception de la demande."}
+      ],
+      "phrases": [
+        {"french": "J'ai bien reçu votre demande.", "arabic": "لقد استلمت طلبكم."},
+        {"french": "Pouvez-vous préciser les étapes à suivre ?", "arabic": "هل يمكنكم توضيح الخطوات التي يجب اتباعها؟"},
+        {"french": "Je vais commencer par cette tâche.", "arabic": "سأبدأ بهذه المهمة."},
+        {"french": "D'abord, je vérifie le code.", "arabic": "أولًا، أتحقق من الكود."},
+        {"french": "Ensuite, je teste la fonctionnalité.", "arabic": "بعد ذلك، أختبر الميزة."},
+        {"french": "Je vous confirmerai lorsque ce sera terminé.", "arabic": "سأؤكد لكم عندما ينتهي الأمر."},
+        {"french": "Dois-je terminer cette tâche aujourd'hui ?", "arabic": "هل يجب أن أنهي هذه المهمة اليوم؟"},
+        {"french": "Je vais suivre les instructions.", "arabic": "سأتبع التعليمات."}
+      ],
+      "speakingTask": "Expliquez à voix haute les étapes nécessaires pour réaliser une tâche de développement.",
+      "review": {
+        "reviewPreviousDay": 14,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 14.",
+          "Répétez les huit phrases du jour 14.",
+          "Faites une présentation de trois minutes."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 16,
+      "date": "2026-11-10",
+      "title": "Demander des précisions",
+      "category": "communication",
+      "vocabulary": [
+        {"french": "préciser", "arabic": "يوضح", "example": "Pouvez-vous préciser votre demande ?"},
+        {"french": "répéter", "arabic": "يكرر", "example": "Pouvez-vous répéter la dernière phrase ?"},
+        {"french": "reformuler", "arabic": "يعيد الصياغة", "example": "Pouvez-vous reformuler la question ?"},
+        {"french": "comprendre", "arabic": "يفهم", "example": "Je veux bien comprendre le besoin."},
+        {"french": "une explication", "arabic": "تفسير", "example": "J'ai besoin d'une explication."},
+        {"french": "un détail", "arabic": "تفصيل", "example": "Il me manque un détail."},
+        {"french": "un exemple", "arabic": "مثال", "example": "Pouvez-vous donner un exemple ?"},
+        {"french": "un doute", "arabic": "شك أو التباس", "example": "J'ai un doute sur cette instruction."},
+        {"french": "clair", "arabic": "واضح", "example": "Le besoin est maintenant clair."},
+        {"french": "confirmer", "arabic": "يؤكد", "example": "Je confirme que j'ai compris."}
+      ],
+      "phrases": [
+        {"french": "Pourriez-vous répéter, s'il vous plaît ?", "arabic": "هل يمكنكم التكرار من فضلكم؟"},
+        {"french": "Je n'ai pas bien compris cette partie.", "arabic": "لم أفهم هذا الجزء جيدًا."},
+        {"french": "Pouvez-vous parler un peu plus lentement ?", "arabic": "هل يمكنكم التحدث ببطء أكثر قليلًا؟"},
+        {"french": "Pourriez-vous reformuler votre demande ?", "arabic": "هل يمكنكم إعادة صياغة طلبكم؟"},
+        {"french": "Pouvez-vous me donner un exemple ?", "arabic": "هل يمكنكم إعطائي مثالًا؟"},
+        {"french": "Si j'ai bien compris, je dois modifier cette page.", "arabic": "إذا فهمت جيدًا، يجب أن أعدّل هذه الصفحة."},
+        {"french": "Je voudrais confirmer un détail.", "arabic": "أود التأكد من تفصيل."},
+        {"french": "Merci pour cette explication.", "arabic": "شكرًا على هذا التوضيح."}
+      ],
+      "speakingTask": "Jouez une conversation où vous ne comprenez pas une consigne et demandez des précisions.",
+      "review": {
+        "reviewPreviousDay": 15,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 15.",
+          "Répétez les huit phrases du jour 15.",
+          "Expliquez les étapes d'une tâche."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 17,
+      "date": "2026-11-11",
+      "title": "Participer à une réunion",
+      "category": "reunion",
+      "vocabulary": [
+        {"french": "une réunion", "arabic": "اجتماع", "example": "Nous avons une réunion ce matin."},
+        {"french": "un ordre du jour", "arabic": "جدول الأعمال", "example": "L'ordre du jour contient trois points."},
+        {"french": "un sujet", "arabic": "موضوع", "example": "Nous discutons d'un sujet important."},
+        {"french": "un compte rendu", "arabic": "محضر أو ملخص الاجتماع", "example": "Je prépare le compte rendu."},
+        {"french": "une décision", "arabic": "قرار", "example": "Nous prenons une décision ensemble."},
+        {"french": "une proposition", "arabic": "اقتراح", "example": "J'ai une proposition à présenter."},
+        {"french": "discuter", "arabic": "يناقش", "example": "Nous discutons des priorités."},
+        {"french": "participer", "arabic": "يشارك", "example": "Je participe à la réunion."},
+        {"french": "conclure", "arabic": "يختتم", "example": "Nous concluons la réunion."},
+        {"french": "noter", "arabic": "يدون", "example": "Je note les décisions."}
+      ],
+      "phrases": [
+        {"french": "Bonjour à tous, nous pouvons commencer.", "arabic": "مرحبًا بالجميع، يمكننا البدء."},
+        {"french": "Quel est l'objectif de cette réunion ?", "arabic": "ما هدف هذا الاجتماع؟"},
+        {"french": "Je voudrais ajouter un point.", "arabic": "أود إضافة نقطة."},
+        {"french": "Je suis d'accord avec cette proposition.", "arabic": "أنا موافق على هذا الاقتراح."},
+        {"french": "Je voudrais poser une question.", "arabic": "أود طرح سؤال."},
+        {"french": "Pouvons-nous revenir sur ce point ?", "arabic": "هل يمكننا العودة إلى هذه النقطة؟"},
+        {"french": "Qui est responsable de cette tâche ?", "arabic": "من المسؤول عن هذه المهمة؟"},
+        {"french": "Je vais noter les décisions prises.", "arabic": "سأدوّن القرارات المتخذة."}
+      ],
+      "speakingTask": "Simulez une réunion courte : saluez l'équipe, posez une question et présentez une proposition.",
+      "review": {
+        "reviewPreviousDay": 16,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 16.",
+          "Répétez les huit phrases du jour 16.",
+          "Demandez des précisions sur une instruction."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 18,
+      "date": "2026-11-12",
+      "title": "Donner des nouvelles sur une tâche",
+      "category": "suivi",
+      "vocabulary": [
+        {"french": "l'avancement", "arabic": "التقدم", "example": "L'avancement du projet est satisfaisant."},
+        {"french": "un retard", "arabic": "تأخر", "example": "Nous avons un retard de deux jours."},
+        {"french": "terminé", "arabic": "منتهٍ", "example": "Le développement est terminé."},
+        {"french": "en cours", "arabic": "قيد الإنجاز", "example": "La correction est en cours."},
+        {"french": "bloqué", "arabic": "متعطل", "example": "Je suis bloqué par une erreur."},
+        {"french": "disponible", "arabic": "متاح", "example": "Je suis disponible pour une réunion."},
+        {"french": "prévu", "arabic": "مقرر", "example": "Le test est prévu demain."},
+        {"french": "livraison", "arabic": "تسليم", "example": "La livraison est prévue vendredi."},
+        {"french": "informer", "arabic": "يُعلم", "example": "J'informe mon responsable."},
+        {"french": "terminer", "arabic": "ينهي", "example": "Je termine la correction."}
+      ],
+      "phrases": [
+        {"french": "La tâche est en cours.", "arabic": "المهمة قيد الإنجاز."},
+        {"french": "J'ai terminé la première partie.", "arabic": "أنهيت الجزء الأول."},
+        {"french": "Je travaille encore sur la correction.", "arabic": "ما زلت أعمل على التصحيح."},
+        {"french": "Je rencontre un blocage technique.", "arabic": "أواجه عائقًا تقنيًا."},
+        {"french": "Je vais demander de l'aide à un collègue.", "arabic": "سأطلب المساعدة من زميل."},
+        {"french": "La livraison est prévue pour demain.", "arabic": "التسليم مقرر ليوم غد."},
+        {"french": "Je vous tiendrai informé de l'avancement.", "arabic": "سأطلعكم على تقدم العمل."},
+        {"french": "Je pense pouvoir terminer cette tâche aujourd'hui.", "arabic": "أعتقد أنني أستطيع إنهاء هذه المهمة اليوم."}
+      ],
+      "speakingTask": "Présentez l'état d'une tâche : ce qui est terminé, ce qui reste et les difficultés éventuelles.",
+      "review": {
+        "reviewPreviousDay": 17,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 17.",
+          "Répétez les huit phrases du jour 17.",
+          "Simulez une courte réunion."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 19,
+      "date": "2026-11-13",
+      "title": "Exprimer son opinion",
+      "category": "opinion",
+      "vocabulary": [
+        {"french": "un avis", "arabic": "رأي", "example": "Je voudrais donner mon avis."},
+        {"french": "penser", "arabic": "يعتقد أو يفكر", "example": "Je pense que cette solution est adaptée."},
+        {"french": "croire", "arabic": "يعتقد", "example": "Je crois que nous pouvons améliorer le code."},
+        {"french": "préférer", "arabic": "يفضل", "example": "Je préfère cette approche."},
+        {"french": "un avantage", "arabic": "ميزة", "example": "Cette solution présente un avantage."},
+        {"french": "un inconvénient", "arabic": "عيب أو سلبية", "example": "Il y a aussi un inconvénient."},
+        {"french": "possible", "arabic": "ممكن", "example": "Cette amélioration est possible."},
+        {"french": "nécessaire", "arabic": "ضروري", "example": "Cette vérification est nécessaire."},
+        {"french": "justifier", "arabic": "يبرر", "example": "Je peux justifier mon choix."},
+        {"french": "proposer", "arabic": "يقترح", "example": "Je propose une autre solution."}
+      ],
+      "phrases": [
+        {"french": "À mon avis, cette solution est adaptée.", "arabic": "في رأيي، هذا الحل مناسب."},
+        {"french": "Je pense que nous pouvons faire mieux.", "arabic": "أعتقد أننا نستطيع القيام بعمل أفضل."},
+        {"french": "Je préfère cette approche parce qu'elle est plus simple.", "arabic": "أفضل هذا النهج لأنه أبسط."},
+        {"french": "L'avantage est que le code est plus facile à maintenir.", "arabic": "الميزة هي أن الكود أسهل في الصيانة."},
+        {"french": "Le principal inconvénient est le temps nécessaire.", "arabic": "العيب الأساسي هو الوقت اللازم."},
+        {"french": "Je comprends votre point de vue.", "arabic": "أتفهم وجهة نظركم."},
+        {"french": "Je ne suis pas entièrement d'accord.", "arabic": "لست موافقًا تمامًا."},
+        {"french": "Je propose une autre possibilité.", "arabic": "أقترح احتمالًا آخر."}
+      ],
+      "speakingTask": "Comparez deux solutions techniques et expliquez votre préférence.",
+      "review": {
+        "reviewPreviousDay": 18,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 18.",
+          "Répétez les huit phrases du jour 18.",
+          "Faites un point d'avancement oral."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 20,
+      "date": "2026-11-14",
+      "title": "Gérer les délais et les priorités",
+      "category": "organisation",
+      "vocabulary": [
+        {"french": "un délai", "arabic": "أجل زمني", "example": "Le délai de livraison est vendredi."},
+        {"french": "une échéance", "arabic": "موعد نهائي", "example": "L'échéance approche."},
+        {"french": "une urgence", "arabic": "أمر عاجل", "example": "Cette correction est urgente."},
+        {"french": "une priorité", "arabic": "أولوية", "example": "Cette tâche est une priorité."},
+        {"french": "planifier", "arabic": "يخطط", "example": "Je planifie mon travail."},
+        {"french": "reporter", "arabic": "يؤجل", "example": "Nous devons reporter la réunion."},
+        {"french": "respecter", "arabic": "يحترم", "example": "Je respecte les échéances."},
+        {"french": "prévoir", "arabic": "يتوقع أو يخطط", "example": "Je prévois deux heures pour cette tâche."},
+        {"french": "terminer", "arabic": "ينهي", "example": "Je termine le travail à temps."},
+        {"french": "retard", "arabic": "تأخر", "example": "Je signale le retard dès que possible."}
+      ],
+      "phrases": [
+        {"french": "Quelle est la priorité aujourd'hui ?", "arabic": "ما الأولوية اليوم؟"},
+        {"french": "Quelle est la date limite pour cette tâche ?", "arabic": "ما الموعد النهائي لهذه المهمة؟"},
+        {"french": "Je vais organiser mon travail par priorité.", "arabic": "سأنظم عملي حسب الأولوية."},
+        {"french": "Cette tâche prendra environ deux heures.", "arabic": "ستستغرق هذه المهمة نحو ساعتين."},
+        {"french": "Je peux terminer cette partie aujourd'hui.", "arabic": "أستطيع إنهاء هذا الجزء اليوم."},
+        {"french": "Je risque d'avoir un léger retard.", "arabic": "قد أتأخر قليلًا."},
+        {"french": "Je vous préviens dès qu'un problème apparaît.", "arabic": "سأبلغكم فور ظهور مشكلة."},
+        {"french": "Pouvons-nous revoir les priorités ?", "arabic": "هل يمكننا مراجعة الأولويات؟"}
+      ],
+      "speakingTask": "Expliquez comment vous organisez trois tâches avec des délais différents.",
+      "review": {
+        "reviewPreviousDay": 19,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 19.",
+          "Répétez les huit phrases du jour 19.",
+          "Exprimez votre avis sur une solution technique."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 21,
+      "date": "2026-11-15",
+      "title": "Révision des situations professionnelles",
+      "category": "revision",
+      "vocabulary": [
+        {"french": "une consigne", "arabic": "تعليمة", "example": "Je demande une précision sur la consigne."},
+        {"french": "un avancement", "arabic": "تقدم", "example": "Je présente l'avancement du projet."},
+        {"french": "une réunion", "arabic": "اجتماع", "example": "Je participe à une réunion."},
+        {"french": "une proposition", "arabic": "اقتراح", "example": "Je présente une proposition."},
+        {"french": "une échéance", "arabic": "موعد نهائي", "example": "Je respecte l'échéance."},
+        {"french": "une difficulté", "arabic": "صعوبة", "example": "Je signale une difficulté."},
+        {"french": "un collègue", "arabic": "زميل", "example": "Je demande conseil à un collègue."},
+        {"french": "une décision", "arabic": "قرار", "example": "Nous prenons une décision."},
+        {"french": "une priorité", "arabic": "أولوية", "example": "Je vérifie la priorité de cette tâche."},
+        {"french": "un compte rendu", "arabic": "ملخص اجتماع", "example": "Je rédige un compte rendu."}
+      ],
+      "phrases": [
+        {"french": "Je voudrais clarifier cette consigne.", "arabic": "أود توضيح هذه التعليمة."},
+        {"french": "Voici l'état d'avancement du projet.", "arabic": "هذه حالة تقدم المشروع."},
+        {"french": "J'ai une proposition à partager.", "arabic": "لدي اقتراح أود مشاركته."},
+        {"french": "Nous devons respecter cette échéance.", "arabic": "يجب أن نحترم هذا الموعد النهائي."},
+        {"french": "Je rencontre une difficulté technique.", "arabic": "أواجه صعوبة تقنية."},
+        {"french": "Je vais vérifier cette information.", "arabic": "سأتحقق من هذه المعلومة."},
+        {"french": "Je confirme les décisions prises.", "arabic": "أؤكد القرارات المتخذة."},
+        {"french": "Je vais résumer les points importants.", "arabic": "سألخص النقاط المهمة."}
+      ],
+      "speakingTask": "Simulez une réunion dans laquelle vous présentez l'avancement, un problème et une proposition.",
+      "review": {
+        "reviewPreviousDay": 20,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 20.",
+          "Répétez les huit phrases du jour 20.",
+          "Révisez les jours 15 à 20.",
+          "Répétez les expressions qui vous aident à demander des précisions."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 22,
+      "date": "2026-11-16",
+      "title": "Répondre aux questions techniques",
+      "category": "entretien_technique",
+      "vocabulary": [
+        {"french": "une méthode", "arabic": "طريقة", "example": "J'utilise une méthode simple pour tester le code."},
+        {"french": "une fonction", "arabic": "دالة أو وظيفة", "example": "Cette fonction traite les données."},
+        {"french": "une requête", "arabic": "استعلام أو طلب", "example": "La requête récupère les utilisateurs."},
+        {"french": "une erreur", "arabic": "خطأ", "example": "Je vérifie le message d'erreur."},
+        {"french": "un test", "arabic": "اختبار", "example": "Je lance un test."},
+        {"french": "un résultat", "arabic": "نتيجة", "example": "J'analyse le résultat du test."},
+        {"french": "une logique", "arabic": "منطق", "example": "La logique de cette fonction est simple."},
+        {"french": "un choix", "arabic": "اختيار", "example": "J'explique mon choix technique."},
+        {"french": "une architecture", "arabic": "بنية النظام", "example": "Nous discutons de l'architecture de l'application."},
+        {"french": "sécuriser", "arabic": "يؤمّن", "example": "Je cherche à sécuriser l'application."}
+      ],
+      "phrases": [
+        {"french": "Je vais expliquer ma méthode.", "arabic": "سأشرح طريقتي."},
+        {"french": "Cette fonction permet de récupérer les données.", "arabic": "تتيح هذه الدالة استرجاع البيانات."},
+        {"french": "Je vérifie la requête SQL.", "arabic": "أتحقق من استعلام SQL."},
+        {"french": "Je teste plusieurs cas.", "arabic": "أختبر عدة حالات."},
+        {"french": "Je n'ai pas encore utilisé cette technologie en profondeur.", "arabic": "لم أستخدم هذه التقنية بعمق بعد."},
+        {"french": "Je connais le principe, mais je dois encore pratiquer.", "arabic": "أعرف المبدأ، لكن ما زال علي التطبيق."},
+        {"french": "Je peux chercher la documentation officielle.", "arabic": "أستطيع البحث في الوثائق الرسمية."},
+        {"french": "Je préfère vérifier avant de donner une réponse.", "arabic": "أفضل التحقق قبل تقديم إجابة."}
+      ],
+      "speakingTask": "Expliquez une fonctionnalité technique et répondez à trois questions sur son fonctionnement.",
+      "review": {
+        "reviewPreviousDay": 21,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 21.",
+          "Répétez les huit phrases du jour 21.",
+          "Simulez une réunion courte."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 23,
+      "date": "2026-11-17",
+      "title": "Parler de ses objectifs professionnels",
+      "category": "objectifs",
+      "vocabulary": [
+        {"french": "une carrière", "arabic": "مسار مهني", "example": "Je souhaite construire une carrière dans le développement."},
+        {"french": "un poste", "arabic": "منصب عمل", "example": "Je recherche un poste de développeur."},
+        {"french": "une opportunité", "arabic": "فرصة", "example": "Cette offre représente une opportunité."},
+        {"french": "une évolution", "arabic": "تطور", "example": "Je cherche une évolution professionnelle."},
+        {"french": "une responsabilité", "arabic": "مسؤولية", "example": "Je souhaite prendre plus de responsabilités."},
+        {"french": "un environnement", "arabic": "بيئة", "example": "Je cherche un environnement de travail stimulant."},
+        {"french": "contribuer", "arabic": "يساهم", "example": "Je veux contribuer aux projets de l'entreprise."},
+        {"french": "développer", "arabic": "يطور", "example": "Je souhaite développer mes compétences."},
+        {"french": "atteindre", "arabic": "يحقق أو يبلغ", "example": "Je veux atteindre mes objectifs."},
+        {"french": "s'engager", "arabic": "يلتزم", "example": "Je suis prêt à m'engager dans le projet."}
+      ],
+      "phrases": [
+        {"french": "Je souhaite évoluer dans le développement web.", "arabic": "أرغب في التطور في مجال تطوير الويب."},
+        {"french": "Je recherche un poste qui me permettra d'apprendre.", "arabic": "أبحث عن منصب يتيح لي التعلم."},
+        {"french": "Je veux contribuer à des projets utiles.", "arabic": "أريد المساهمة في مشاريع مفيدة."},
+        {"french": "Je souhaite développer mes compétences techniques.", "arabic": "أرغب في تطوير مهاراتي التقنية."},
+        {"french": "Je cherche un environnement où je peux progresser.", "arabic": "أبحث عن بيئة أستطيع التطور فيها."},
+        {"french": "Je suis prêt à apprendre de nouvelles méthodes.", "arabic": "أنا مستعد لتعلم طرق جديدة."},
+        {"french": "À long terme, je veux devenir développeur full stack confirmé.", "arabic": "على المدى الطويل، أريد أن أصبح مطور Full Stack متمكنًا."},
+        {"french": "Je souhaite participer à la réussite de l'équipe.", "arabic": "أرغب في المساهمة في نجاح الفريق."}
+      ],
+      "speakingTask": "Répondez à la question : « Quels sont vos objectifs professionnels ? »",
+      "review": {
+        "reviewPreviousDay": 22,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 22.",
+          "Répétez les huit phrases du jour 22.",
+          "Expliquez une fonctionnalité technique."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 24,
+      "date": "2026-11-18",
+      "title": "Comprendre un recruteur et parler du poste",
+      "category": "recrutement",
+      "vocabulary": [
+        {"french": "un recruteur", "arabic": "مسؤول توظيف", "example": "Le recruteur me pose des questions."},
+        {"french": "une offre", "arabic": "عرض عمل", "example": "J'ai répondu à une offre d'emploi."},
+        {"french": "un poste", "arabic": "منصب", "example": "Le poste concerne le développement web."},
+        {"french": "un contrat", "arabic": "عقد", "example": "Je souhaite comprendre les conditions du contrat."},
+        {"french": "un salaire", "arabic": "راتب", "example": "Le recruteur me parle du salaire."},
+        {"french": "une disponibilité", "arabic": "التوفر", "example": "Je précise ma disponibilité."},
+        {"french": "une date", "arabic": "تاريخ", "example": "Nous fixons une date pour le prochain entretien."},
+        {"french": "une condition", "arabic": "شرط", "example": "Je demande des précisions sur les conditions."},
+        {"french": "un échange", "arabic": "محادثة أو تبادل", "example": "Nous avons un échange professionnel."},
+        {"french": "confirmer", "arabic": "يؤكد", "example": "Je confirme ma présence à l'entretien."}
+      ],
+      "phrases": [
+        {"french": "Pouvez-vous m'en dire plus sur le poste ?", "arabic": "هل يمكنكم إخباري بالمزيد عن المنصب؟"},
+        {"french": "Quelles sont les principales missions ?", "arabic": "ما المهام الأساسية؟"},
+        {"french": "Quelles technologies utilisez-vous ?", "arabic": "ما التقنيات التي تستخدمونها؟"},
+        {"french": "Quelles sont les conditions du contrat ?", "arabic": "ما شروط العقد؟"},
+        {"french": "Je suis disponible pour un entretien.", "arabic": "أنا متاح لإجراء مقابلة."},
+        {"french": "Pourriez-vous préciser la date de prise de poste ?", "arabic": "هل يمكنكم توضيح تاريخ بدء العمل؟"},
+        {"french": "Je vous remercie pour ces informations.", "arabic": "أشكركم على هذه المعلومات."},
+        {"french": "Je reste disponible pour la suite du processus.", "arabic": "أبقى متاحًا لمتابعة مراحل التوظيف."}
+      ],
+      "speakingTask": "Jouez un échange entre un recruteur et un candidat à propos d'un poste de développeur.",
+      "review": {
+        "reviewPreviousDay": 23,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 23.",
+          "Répétez les huit phrases du jour 23.",
+          "Expliquez vos objectifs professionnels."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 25,
+      "date": "2026-11-19",
+      "title": "Parler de ses disponibilités et de ses conditions",
+      "category": "recrutement",
+      "vocabulary": [
+        {"french": "disponible", "arabic": "متاح", "example": "Je suis disponible rapidement."},
+        {"french": "immédiatement", "arabic": "فورًا", "example": "Je peux commencer immédiatement."},
+        {"french": "prochainement", "arabic": "قريبًا", "example": "Je peux commencer prochainement."},
+        {"french": "un préavis", "arabic": "مدة الإشعار قبل المغادرة", "example": "Je n'ai pas de préavis contractuel."},
+        {"french": "une rémunération", "arabic": "أجر", "example": "Je souhaite discuter de la rémunération."},
+        {"french": "une attente", "arabic": "توقع", "example": "J'explique mes attentes salariales."},
+        {"french": "négocier", "arabic": "يتفاوض", "example": "Nous pouvons négocier les conditions."},
+        {"french": "un accord", "arabic": "اتفاق", "example": "Nous cherchons un accord."},
+        {"french": "une proposition", "arabic": "عرض أو اقتراح", "example": "Je vous remercie pour votre proposition."},
+        {"french": "préciser", "arabic": "يوضح", "example": "Je précise mes disponibilités."}
+      ],
+      "phrases": [
+        {"french": "Je suis disponible pour commencer rapidement.", "arabic": "أنا متاح لبدء العمل قريبًا."},
+        {"french": "Je peux discuter de la date de démarrage.", "arabic": "يمكنني مناقشة تاريخ البدء."},
+        {"french": "Je souhaite connaître la fourchette salariale prévue.", "arabic": "أرغب في معرفة نطاق الراتب المتوقع."},
+        {"french": "Mes attentes dépendent des responsabilités du poste.", "arabic": "تعتمد توقعاتي على مسؤوليات المنصب."},
+        {"french": "Je suis ouvert à une discussion sur les conditions.", "arabic": "أنا منفتح على مناقشة الشروط."},
+        {"french": "Pourriez-vous détailler la proposition ?", "arabic": "هل يمكنكم تفصيل العرض؟"},
+        {"french": "Je préfère examiner les conditions avant de confirmer.", "arabic": "أفضل مراجعة الشروط قبل التأكيد."},
+        {"french": "Merci, je vais étudier votre proposition.", "arabic": "شكرًا، سأدرس عرضكم."}
+      ],
+      "speakingTask": "Simulez une conversation sur la disponibilité, le salaire et les conditions du poste.",
+      "review": {
+        "reviewPreviousDay": 24,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 24.",
+          "Répétez les huit phrases du jour 24.",
+          "Jouez un échange avec un recruteur."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 26,
+      "date": "2026-11-20",
+      "title": "Répondre quand on ne connaît pas la réponse",
+      "category": "communication",
+      "vocabulary": [
+        {"french": "une réponse", "arabic": "إجابة", "example": "Je cherche une réponse précise."},
+        {"french": "une hypothèse", "arabic": "فرضية", "example": "Je formule une hypothèse."},
+        {"french": "vérifier", "arabic": "يتحقق", "example": "Je vais vérifier cette information."},
+        {"french": "rechercher", "arabic": "يبحث", "example": "Je peux rechercher la solution."},
+        {"french": "une documentation", "arabic": "وثائق تقنية", "example": "Je consulte la documentation officielle."},
+        {"french": "apprendre", "arabic": "يتعلم", "example": "Je peux apprendre cette technologie."},
+        {"french": "admettre", "arabic": "يعترف", "example": "Je peux admettre que je ne sais pas."},
+        {"french": "précis", "arabic": "دقيق", "example": "Je veux donner une réponse précise."},
+        {"french": "probablement", "arabic": "على الأرجح", "example": "C'est probablement lié à la configuration."},
+        {"french": "ensuite", "arabic": "بعد ذلك", "example": "Ensuite, je teste la solution."}
+      ],
+      "phrases": [
+        {"french": "Je ne connais pas encore la réponse exacte.", "arabic": "لا أعرف الإجابة الدقيقة بعد."},
+        {"french": "Je préfère vérifier avant de répondre.", "arabic": "أفضل التحقق قبل الإجابة."},
+        {"french": "Je peux rechercher cette information.", "arabic": "أستطيع البحث عن هذه المعلومة."},
+        {"french": "Je consulterais d'abord la documentation officielle.", "arabic": "سأراجع الوثائق الرسمية أولًا."},
+        {"french": "Je connais le principe général.", "arabic": "أعرف المبدأ العام."},
+        {"french": "Je n'ai pas encore eu l'occasion de travailler avec cet outil.", "arabic": "لم تتح لي الفرصة للعمل بهذه الأداة بعد."},
+        {"french": "Je suis prêt à apprendre cette technologie.", "arabic": "أنا مستعد لتعلم هذه التقنية."},
+        {"french": "Je vais tester cette hypothèse.", "arabic": "سأختبر هذه الفرضية."}
+      ],
+      "speakingTask": "Répondez à trois questions techniques difficiles en expliquant honnêtement ce que vous savez et ce que vous devez vérifier.",
+      "review": {
+        "reviewPreviousDay": 25,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 25.",
+          "Répétez les huit phrases du jour 25.",
+          "Simulez une discussion avec un recruteur."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 27,
+      "date": "2026-11-21",
+      "title": "Écrire et parler de manière professionnelle",
+      "category": "communication",
+      "vocabulary": [
+        {"french": "un message", "arabic": "رسالة", "example": "J'envoie un message à mon responsable."},
+        {"french": "un courriel", "arabic": "بريد إلكتروني", "example": "Je rédige un courriel professionnel."},
+        {"french": "un objet", "arabic": "موضوع الرسالة", "example": "Je choisis un objet clair pour le courriel."},
+        {"french": "une demande", "arabic": "طلب", "example": "Je formule une demande polie."},
+        {"french": "un remerciement", "arabic": "شكر", "example": "J'ajoute un remerciement à mon message."},
+        {"french": "cordialement", "arabic": "مع التحية", "example": "Je termine mon courriel par « Cordialement »."},
+        {"french": "informer", "arabic": "يُعلم", "example": "J'informe mon responsable de l'avancement."},
+        {"french": "confirmer", "arabic": "يؤكد", "example": "Je confirme ma présence à la réunion."},
+        {"french": "transmettre", "arabic": "يرسل أو يحيل", "example": "Je transmets le document à l'équipe."},
+        {"french": "remercier", "arabic": "يشكر", "example": "Je remercie mon collègue pour son aide."}
+      ],
+      "phrases": [
+        {"french": "Bonjour, je vous contacte au sujet du projet.", "arabic": "مرحبًا، أتواصل معكم بخصوص المشروع."},
+        {"french": "Je souhaite vous informer de l'avancement.", "arabic": "أرغب في إطلاعكم على تقدم العمل."},
+        {"french": "Vous trouverez le document en pièce jointe.", "arabic": "ستجدون الوثيقة مرفقة."},
+        {"french": "Pourriez-vous me confirmer la réception ?", "arabic": "هل يمكنكم تأكيد الاستلام؟"},
+        {"french": "Merci pour votre retour.", "arabic": "شكرًا على ردكم."},
+        {"french": "Je reste disponible si vous avez des questions.", "arabic": "أبقى متاحًا إذا كانت لديكم أسئلة."},
+        {"french": "Je vous remercie pour votre aide.", "arabic": "أشكركم على مساعدتكم."},
+        {"french": "Cordialement, et bonne journée.", "arabic": "مع التحية، وأتمنى لكم يومًا سعيدًا."}
+      ],
+      "speakingTask": "Rédigez un court message professionnel, puis lisez-le à voix haute avec une prononciation claire.",
+      "review": {
+        "reviewPreviousDay": 26,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 26.",
+          "Répétez les huit phrases du jour 26.",
+          "Répondez à une question technique sans inventer de connaissances."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 28,
+      "date": "2026-11-22",
+      "title": "Simuler une journée de travail",
+      "category": "simulation",
+      "vocabulary": [
+        {"french": "une demande", "arabic": "طلب", "example": "Je reçois une demande de mon responsable."},
+        {"french": "un changement", "arabic": "تغيير", "example": "Le client demande un changement."},
+        {"french": "une correction", "arabic": "تصحيح", "example": "Je prépare une correction."},
+        {"french": "une validation", "arabic": "مصادقة", "example": "J'attends la validation du responsable."},
+        {"french": "un retour", "arabic": "رد أو ملاحظات", "example": "J'attends un retour de l'équipe."},
+        {"french": "une livraison", "arabic": "تسليم", "example": "La livraison est prévue demain."},
+        {"french": "une réunion", "arabic": "اجتماع", "example": "Je participe à une réunion de suivi."},
+        {"french": "une vérification", "arabic": "تحقق", "example": "Je fais une dernière vérification."},
+        {"french": "un résultat", "arabic": "نتيجة", "example": "Je présente le résultat final."},
+        {"french": "un compte rendu", "arabic": "ملخص", "example": "J'envoie un compte rendu à l'équipe."}
+      ],
+      "phrases": [
+        {"french": "J'ai reçu une nouvelle demande.", "arabic": "تلقيت طلبًا جديدًا."},
+        {"french": "Je vais analyser le changement demandé.", "arabic": "سأحلل التغيير المطلوب."},
+        {"french": "J'ai besoin de quelques précisions.", "arabic": "أحتاج إلى بعض التوضيحات."},
+        {"french": "Je prépare la correction.", "arabic": "أحضر التصحيح."},
+        {"french": "La fonctionnalité est prête pour les tests.", "arabic": "الميزة جاهزة للاختبارات."},
+        {"french": "J'attends la validation avant la livraison.", "arabic": "أنتظر المصادقة قبل التسليم."},
+        {"french": "Je vais présenter le résultat à l'équipe.", "arabic": "سأعرض النتيجة على الفريق."},
+        {"french": "Je vous envoie un résumé des actions réalisées.", "arabic": "أرسل إليكم ملخصًا للإجراءات المنجزة."}
+      ],
+      "speakingTask": "Simulez une journée complète : réception d'une demande, clarification, développement, test et compte rendu.",
+      "review": {
+        "reviewPreviousDay": 27,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 27.",
+          "Répétez les huit phrases du jour 27.",
+          "Rédigez et prononcez un message professionnel."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 29,
+      "date": "2026-11-23",
+      "title": "Simulation complète d'entretien",
+      "category": "simulation_entretien",
+      "vocabulary": [
+        {"french": "un candidat", "arabic": "مرشح", "example": "Le candidat présente son expérience."},
+        {"french": "un recruteur", "arabic": "مسؤول توظيف", "example": "Le recruteur pose des questions."},
+        {"french": "un parcours", "arabic": "مسار", "example": "Je présente mon parcours."},
+        {"french": "une compétence", "arabic": "مهارة", "example": "Je donne un exemple de compétence."},
+        {"french": "une motivation", "arabic": "دافع", "example": "J'explique ma motivation."},
+        {"french": "une responsabilité", "arabic": "مسؤولية", "example": "Je parle de mes responsabilités."},
+        {"french": "une disponibilité", "arabic": "توفر", "example": "Je précise ma disponibilité."},
+        {"french": "une question", "arabic": "سؤال", "example": "Je pose une question au recruteur."},
+        {"french": "un poste", "arabic": "منصب", "example": "Je souhaite obtenir ce poste."},
+        {"french": "une conclusion", "arabic": "خاتمة", "example": "Je termine l'entretien avec une conclusion polie."}
+      ],
+      "phrases": [
+        {"french": "Bonjour, merci de me recevoir.", "arabic": "مرحبًا، شكرًا على استقبالي."},
+        {"french": "Je vais vous présenter mon parcours.", "arabic": "سأقدم لكم مساري."},
+        {"french": "Ma formation porte sur le développement digital.", "arabic": "تكويني يتعلق بالتطوير الرقمي."},
+        {"french": "J'ai travaillé sur plusieurs projets web.", "arabic": "عملت على عدة مشاريع ويب."},
+        {"french": "Je souhaite renforcer mes compétences.", "arabic": "أرغب في تعزيز مهاراتي."},
+        {"french": "Je peux expliquer ma contribution à ce projet.", "arabic": "أستطيع شرح مساهمتي في هذا المشروع."},
+        {"french": "J'aimerais en savoir plus sur les missions du poste.", "arabic": "أود معرفة المزيد عن مهام المنصب."},
+        {"french": "Merci pour cet échange et pour votre temps.", "arabic": "شكرًا على هذه المقابلة وعلى وقتكم."}
+      ],
+      "speakingTask": "Passez un entretien simulé de cinq minutes sans lire vos réponses. Enregistrez-vous et notez trois points à améliorer.",
+      "review": {
+        "reviewPreviousDay": 28,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 28.",
+          "Répétez les huit phrases du jour 28.",
+          "Simulez une journée de travail."
+        ],
+        "completed": false
+      },
+      "completed": false
+    },
+    {
+      "day": 30,
+      "date": "2026-11-24",
+      "title": "Bilan final et consolidation",
+      "category": "bilan",
+      "vocabulary": [
+        {"french": "un bilan", "arabic": "حصيلة أو تقييم", "example": "Je fais le bilan de mon apprentissage."},
+        {"french": "un objectif", "arabic": "هدف", "example": "Je définis un nouvel objectif."},
+        {"french": "un progrès", "arabic": "تقدم", "example": "Je remarque mes progrès."},
+        {"french": "une difficulté", "arabic": "صعوبة", "example": "J'identifie mes difficultés."},
+        {"french": "une réussite", "arabic": "نجاح", "example": "Cette présentation est une réussite."},
+        {"french": "une habitude", "arabic": "عادة", "example": "Je garde une habitude de pratique."},
+        {"french": "la confiance", "arabic": "الثقة", "example": "Je gagne en confiance à l'oral."},
+        {"french": "la fluidité", "arabic": "الطلاقة", "example": "Je travaille ma fluidité en français."},
+        {"french": "la compréhension", "arabic": "الفهم", "example": "J'améliore ma compréhension orale."},
+        {"french": "la régularité", "arabic": "الانتظام", "example": "La régularité m'aide à progresser."}
+      ],
+      "phrases": [
+        {"french": "Je peux me présenter plus facilement qu'avant.", "arabic": "أستطيع تقديم نفسي بسهولة أكبر من السابق."},
+        {"french": "Je connais davantage de vocabulaire professionnel.", "arabic": "أعرف مفردات مهنية أكثر."},
+        {"french": "Je comprends mieux les questions simples.", "arabic": "أفهم الأسئلة البسيطة بشكل أفضل."},
+        {"french": "Je dois continuer à améliorer ma compréhension orale.", "arabic": "يجب أن أواصل تحسين فهمي الشفهي."},
+        {"french": "Je vais réviser les mots que j'oublie souvent.", "arabic": "سأراجع الكلمات التي أنساها كثيرًا."},
+        {"french": "Je continuerai à pratiquer la conversation chaque jour.", "arabic": "سأواصل ممارسة المحادثة كل يوم."},
+        {"french": "Mon objectif est de communiquer avec confiance au travail.", "arabic": "هدفي هو التواصل بثقة في العمل."},
+        {"french": "Je vais continuer à progresser étape par étape.", "arabic": "سأواصل التقدم خطوة بخطوة."}
+      ],
+      "speakingTask": "Enregistrez une présentation de cinq minutes comprenant votre parcours, un projet, vos compétences, vos objectifs et une simulation de réunion. Comparez-la avec votre enregistrement du jour 1.",
+      "review": {
+        "reviewPreviousDay": 29,
+        "reviewTasks": [
+          "Rappelez les dix mots du jour 29.",
+          "Répétez les huit phrases du jour 29.",
+          "Révisez les mots oubliés des 29 jours précédents.",
+          "Comparez votre présentation finale avec celle du premier jour."
+        ],
+        "completed": false
+      },
+      "completed": false
+    }
+  ]
+}
